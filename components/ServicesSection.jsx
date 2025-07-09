@@ -48,7 +48,7 @@ export default function ServicesSection() {
     <section className="py-24 bg-transparent relative z-10" id="services">
       <div className="max-w-5xl mx-auto px-4">
         <h2 className="text-3xl md:text-4xl font-bold text-center mb-12">
-          Layanan <span className="text-gray-800">GUDKID</span>
+          Layanan <span className="text-gray-800">Software House GUDKID</span>
         </h2>
         <motion.div
           className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-8"

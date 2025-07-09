@@ -1,0 +1,27 @@
+{
+  "name": "GUDKID - Software House Indonesia",
+  "short_name": "GUDKID",
+  "description": "Software house terpercaya di Indonesia yang menyediakan jasa pembuatan aplikasi web, mobile, dan solusi digital",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/logo_gudkid.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/logo_gudkid.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["business", "productivity"],
+  "lang": "id",
+  "dir": "ltr"
+} 
